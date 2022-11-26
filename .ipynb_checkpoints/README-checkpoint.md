@@ -9,9 +9,7 @@ To complete the project, you will need to load data from S3 to staging tables on
 ### Project Datasets
 Working with two datasets that reside in S3.
 
-Song data: s3://udacity-dend/song_data
-Log data: s3://udacity-dend/log_data 
-Log data json path: s3://udacity-dend/log_json_path.json
+Song data: s3://udacity-dend/song_data Log data: s3://udacity-dend/log_data Log data json path: s3://udacity-dend/log_json_path.json
 
 ###  Database Schema for Song Play Analysis
 
